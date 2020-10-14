@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goodday860726/twitter-clone.git/static/css/main.156e8e89.chunk.css",
+    "main.js": "/goodday860726/twitter-clone.git/static/js/main.39bc6d8f.chunk.js",
+    "main.js.map": "/goodday860726/twitter-clone.git/static/js/main.39bc6d8f.chunk.js.map",
+    "runtime-main.js": "/goodday860726/twitter-clone.git/static/js/runtime-main.9a769ab7.js",
+    "runtime-main.js.map": "/goodday860726/twitter-clone.git/static/js/runtime-main.9a769ab7.js.map",
+    "static/js/2.9a76f617.chunk.js": "/goodday860726/twitter-clone.git/static/js/2.9a76f617.chunk.js",
+    "static/js/2.9a76f617.chunk.js.map": "/goodday860726/twitter-clone.git/static/js/2.9a76f617.chunk.js.map",
+    "index.html": "/goodday860726/twitter-clone.git/index.html",
+    "precache-manifest.65855f0868dd3e059a89043e8f5bcfaf.js": "/goodday860726/twitter-clone.git/precache-manifest.65855f0868dd3e059a89043e8f5bcfaf.js",
+    "service-worker.js": "/goodday860726/twitter-clone.git/service-worker.js",
+    "static/css/main.156e8e89.chunk.css.map": "/goodday860726/twitter-clone.git/static/css/main.156e8e89.chunk.css.map",
+    "static/js/2.9a76f617.chunk.js.LICENSE.txt": "/goodday860726/twitter-clone.git/static/js/2.9a76f617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a769ab7.js",
+    "static/js/2.9a76f617.chunk.js",
+    "static/css/main.156e8e89.chunk.css",
+    "static/js/main.39bc6d8f.chunk.js"
+  ]
+}
